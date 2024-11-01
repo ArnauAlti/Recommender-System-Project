@@ -1,6 +1,6 @@
 # Recommender-System-Project
-Proyecto personal de sistema de recomendación utilizando Collaborative y Content-Based Filtering
 
+Sistema de recomendación de libros basada en una Red Neuronal Embedding para Recomendación.
 
 librerias utilizadas:
 - pandas 
